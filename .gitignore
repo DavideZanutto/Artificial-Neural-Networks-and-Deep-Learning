@@ -6,3 +6,9 @@
 data_augmentation_experiments/
 
 Submission/SubmissionModel/
+
+*.jpg
+
+SplitData
+
+*.zip
