@@ -2,3 +2,25 @@
 .DS_Store
 
 .idea/
+
+data_augmentation_experiments/
+
+Submission/SubmissionModel/
+
+*.jpg
+
+SplitData
+
+*.zip
+
+SubmissionPreTrain copy/
+
+TransferLearningModel_LearningRate_Norm&Alpha/variables/
+
+*.pb
+
+*.index
+
+*.data-00000-of-00001
+
+SubmissionCnnCustom/metadata
