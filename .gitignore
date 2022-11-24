@@ -12,3 +12,13 @@ Submission/SubmissionModel/
 SplitData
 
 *.zip
+
+SubmissionPreTrain copy/
+
+TransferLearningModel_LearningRate_Norm&Alpha/variables/
+
+*.pb
+
+*.index
+
+*.data-00000-of-00001
