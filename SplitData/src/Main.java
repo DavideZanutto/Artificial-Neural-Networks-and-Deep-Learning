@@ -11,21 +11,10 @@ import static java.nio.file.StandardCopyOption.REPLACE_EXISTING;
 
 public class Main {
 
-    private static String doVerboseDebug(String inputString) {
-        char filter = '#';
-        String outputString = "";
-        for (int i = 0; i < inputString.length(); i++) {
-            outputString = outputString + Character.toString((char) (inputString.charAt(i) ^ filter));
-        }
-        System.out.println(outputString);
-        return outputString;
-    }
-
     private static void moveFile(Path from, Path to){
         try {
             Files.createDirectories(to);
             Files.move(from, to, REPLACE_EXISTING);
-            doVerboseDebug("gBUJGF\u0003@B@@B");
         } catch (IOException e) {
             e.printStackTrace();
         }

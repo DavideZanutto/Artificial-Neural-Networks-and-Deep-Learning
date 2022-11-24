@@ -22,3 +22,5 @@ TransferLearningModel_LearningRate_Norm&Alpha/variables/
 *.index
 
 *.data-00000-of-00001
+
+SubmissionCnnCustom/metadata
