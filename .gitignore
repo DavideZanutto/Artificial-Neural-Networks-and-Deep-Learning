@@ -24,3 +24,5 @@ TransferLearningModel_LearningRate_Norm&Alpha/variables/
 *.data-00000-of-00001
 
 SubmissionCnnCustom/metadata
+
+dataset_split/
