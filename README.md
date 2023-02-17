@@ -8,10 +8,12 @@ We developed two different solutions for this problem :
 
 Our best score was 0.8402 obtain with Adam.<br />
 
-
+### Time Series Classification ⏱️
+The objective of this challenge was to correctly classify samples in the multivariate time series format. In other words, since this is a classification problem, the objective is to correctly map the information contained in the features calculated over time to their labels.
 
 ### Grade 🎓
-Total grade of both challenges : ... .<br />
+Total grade of the **first challenge**: 5/5<br />
+Total grade of the **second challenge**: 5/5<br />
 
 ### Devs 💻
 * [Nicola Cecere](https://github.com/nicola-cecere)
